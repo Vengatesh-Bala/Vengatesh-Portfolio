@@ -1,0 +1,11 @@
+#include <Life>
+   //Algorithm of Success
+
+While (No Success)
+  {
+   tryagain ();
+  }
+if (Success)
+  {
+   improve();
+  } 
